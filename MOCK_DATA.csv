@@ -1,101 +1,52 @@
-id,first_name,last_name,email,gender
-1,Clarence,Semaine,csemaine0@google.nl,Male
-2,Angil,Mathewes,amathewes1@discuz.net,Female
-3,Moshe,Janda,mjanda2@theglobeandmail.com,Male
-4,Charmain,Murphey,cmurphey3@tmall.com,Female
-5,Samuel,oldey,soldey4@salon.com,Male
-6,Emilie,Barense,ebarense5@tmall.com,Female
-7,Lillis,Zecchinii,lzecchinii6@mapquest.com,Genderqueer
-8,Maryanna,Cabane,mcabane7@squidoo.com,Female
-9,Chic,Kitchener,ckitchener8@rediff.com,Male
-10,Cyrus,Candey,ccandey9@samsung.com,Male
-11,Terrill,Pendrill,tpendrilla@devhub.com,Male
-12,Lilllie,Cafferty,lcaffertyb@seattletimes.com,Female
-13,Delores,Bernhardsson,dbernhardssonc@cbsnews.com,Female
-14,Justinn,Watson-Brown,jwatsonbrownd@twitpic.com,Female
-15,Ryan,Sonier,rsoniere@aol.com,Male
-16,Phillis,Recke,preckef@photobucket.com,Female
-17,Ernie,MacMeeking,emacmeekingg@blog.com,Agender
-18,Christabella,Silvers,csilversh@163.com,Polygender
-19,Tomaso,Sneesbie,tsneesbiei@wikipedia.org,Male
-20,Mickie,Duce,mducej@illinois.edu,Male
-21,Jordain,Jarville,jjarvillek@state.tx.us,Female
-22,Kane,Toffolo,ktoffolol@flickr.com,Male
-23,Nina,Nerger,nnergerm@altervista.org,Female
-24,Manda,Mathieu,mmathieun@ebay.co.uk,Female
-25,Keslie,Tyght,ktyghto@nyu.edu,Female
-26,Bettina,Kubach,bkubachp@wikimedia.org,Female
-27,Tabby,Haug,thaugq@ed.gov,Male
-28,Lorin,Tolerton,ltolertonr@privacy.gov.au,Male
-29,Bria,Exton,bextons@cloudflare.com,Female
-30,Aymer,Lidgertwood,alidgertwoodt@ox.ac.uk,Male
-31,Simone,Itchingham,sitchinghamu@issuu.com,Male
-32,Sadye,Druce,sdrucev@state.tx.us,Female
-33,Tiff,Trathan,ttrathanw@ehow.com,Female
-34,Reider,Ferrea,rferreax@ning.com,Male
-35,Meris,McKeaney,mmckeaneyy@so-net.ne.jp,Female
-36,Virgie,Finlaison,vfinlaisonz@techcrunch.com,Female
-37,Town,MacNess,tmacness10@sbwire.com,Male
-38,Salomone,Garbutt,sgarbutt11@51.la,Male
-39,Hermy,Lawrenceson,hlawrenceson12@wikia.com,Male
-40,Tripp,Cheetam,tcheetam13@symantec.com,Male
-41,Ardeen,Taft,ataft14@yandex.ru,Genderqueer
-42,Austin,Dunbobbin,adunbobbin15@scientificamerican.com,Female
-43,Shamus,Leaney,sleaney16@amazon.com,Male
-44,Levin,Ruvel,lruvel17@discovery.com,Male
-45,Florentia,Keyes,fkeyes18@cmu.edu,Female
-46,Keefer,Bach,kbach19@bbc.co.uk,Non-binary
-47,Ado,McGeraghty,amcgeraghty1a@dell.com,Male
-48,Jocelyn,Possa,jpossa1b@twitter.com,Female
-49,Katharine,O'Duggan,koduggan1c@sakura.ne.jp,Female
-50,Rock,Hickford,rhickford1d@msu.edu,Male
-51,Pippy,Mattersey,pmattersey1e@abc.net.au,Female
-52,Jessamyn,Keaton,jkeaton1f@scientificamerican.com,Female
-53,Gus,Pietzke,gpietzke1g@unc.edu,Male
-54,Goldarina,Rickford,grickford1h@mac.com,Female
-55,Luciano,Epilet,lepilet1i@bluehost.com,Male
-56,Gnni,Hawkes,ghawkes1j@taobao.com,Female
-57,Freemon,Siaspinski,fsiaspinski1k@disqus.com,Male
-58,Staffard,Whitehorn,swhitehorn1l@nifty.com,Bigender
-59,Bradley,Gerant,bgerant1m@live.com,Male
-60,Frants,Coweuppe,fcoweuppe1n@globo.com,Male
-61,Whitaker,Rendbaek,wrendbaek1o@cnn.com,Male
-62,Andee,Ludwig,aludwig1p@reddit.com,Female
-63,Dodie,Pietrusiak,dpietrusiak1q@tuttocitta.it,Female
-64,Arie,Colisbe,acolisbe1r@tinyurl.com,Male
-65,Codie,Davsley,cdavsley1s@sciencedirect.com,Male
-66,Davis,Shemmans,dshemmans1t@vimeo.com,Male
-67,Willy,Gallihawk,wgallihawk1u@alibaba.com,Male
-68,Nels,Bannell,nbannell1v@ovh.net,Male
-69,Creigh,Peers,cpeers1w@cloudflare.com,Male
-70,Marlene,Meardon,mmeardon1x@tripod.com,Female
-71,Zsa zsa,Snookes,zsnookes1y@time.com,Female
-72,Nappie,Nehlsen,nnehlsen1z@wikimedia.org,Genderqueer
-73,Adair,Ballantine,aballantine20@studiopress.com,Male
-74,Trudi,Karolowski,tkarolowski21@huffingtonpost.com,Female
-75,Timmi,Magson,tmagson22@vinaora.com,Female
-76,Kally,Dominy,kdominy23@stumbleupon.com,Genderfluid
-77,Guendolen,McNirlan,gmcnirlan24@barnesandnoble.com,Female
-78,Granville,Waddams,gwaddams25@businessinsider.com,Male
-79,Forester,Ubsdell,fubsdell26@hibu.com,Male
-80,Eryn,Burtwell,eburtwell27@miibeian.gov.cn,Female
-81,Fred,Atto,fatto28@slideshare.net,Female
-82,Griffie,Mounce,gmounce29@blogspot.com,Male
-83,Marius,McDoual,mmcdoual2a@pinterest.com,Male
-84,Errick,Bewley,ebewley2b@elegantthemes.com,Male
-85,Jordon,Weatherby,jweatherby2c@example.com,Genderfluid
-86,April,Esseby,aesseby2d@mit.edu,Female
-87,Belvia,Vegas,bvegas2e@vimeo.com,Female
-88,Nellie,Addey,naddey2f@about.com,Female
-89,Cart,Dayne,cdayne2g@yandex.ru,Male
-90,Josefina,Kmicicki,jkmicicki2h@istockphoto.com,Female
-91,Marlee,Brockherst,mbrockherst2i@surveymonkey.com,Female
-92,Leann,Bewsey,lbewsey2j@simplemachines.org,Bigender
-93,Haleigh,Kleinmintz,hkleinmintz2k@webmd.com,Male
-94,Kiah,Boch,kboch2l@gmpg.org,Female
-95,Sukey,Baudains,sbaudains2m@godaddy.com,Female
-96,Tye,Lainton,tlainton2n@squidoo.com,Male
-97,Tootsie,Sills,tsills2o@mozilla.org,Female
-98,Leontyne,Bezley,lbezley2p@hao123.com,Female
-99,Rourke,Ropars,rropars2q@bravesites.com,Male
-100,Loralyn,Zmitruk,lzmitruk2r@meetup.com,Female
+Patient_ID,Patient_Name,Age,Gender,Blood_Group,Disease,Admission_Date,Phone_Number
+101,Raj Kumar,45,Male,O+,Diabetes,2026-11-01,9876543210
+102,Priya S,32,Female,A+,Fever,2026-11-02,9876543211
+103,Arun K,-5,Male,B+,Asthma,2026-11-03,9876543212
+104,Divya R,150,Female,O+,Cold,2026-11-04,9876543213
+105,Kavin M,28,Male,X+,Diabetes,2026-11-05,9876543214
+106,Meena P,35,Female,A-,Hypertension,2026-11-06,ABC1234567
+107,Suresh T,,Male,B+,Asthma,2026-11-07,9876543216
+108,Lakshmi N,40,Female,O+,Fever,2027-12-01,9876543217
+109,Ravi V,52,Male,O+,Diabetes,2026-11-08,9876543218
+109,Ravi V,52,Male,O+,Diabetes,2026-11-08,9876543218
+110,Ananya P,24,Female,A+,Migraine,2026-11-09,9876543219
+111,Karthik R,37,Male,B+,Fever,2026-11-10,9876543220
+112,Nisha K,29,Female,O-,Asthma,2026-11-11,9876543221
+113,Vignesh S,48,Male,AB+,Diabetes,2026-11-12,9876543222
+114,Pooja M,34,Female,A+,Cold,2026-11-13,9876543223
+115,Ajay T,42,Male,O+,Hypertension,2026-11-14,9876543224
+116,Swathi R,31,Female,B+,Fever,2026-11-15,9876543225
+117,Manoj K,55,Male,O-,Diabetes,2026-11-16,9876543226
+118,Gayathri N,27,Female,A-,Migraine,2026-11-17,9876543227
+119,Sanjay P,38,Male,B+,Asthma,2026-11-18,9876543228
+120,Deepa S,46,Female,AB-,Hypertension,2026-11-19,9876543229
+121,Ramesh V,51,Male,O+,Diabetes,2026-11-20,9876543230
+122,Keerthana M,22,Female,A+,Fever,2026-11-21,9876543231
+123,Praveen D,36,Male,B-,Cold,2026-11-22,9876543232
+124,Monisha R,30,Female,O+,Asthma,2026-11-23,9876543233
+125,Hari K,44,Male,AB+,Hypertension,2026-11-24,9876543234
+126,Divya L,26,Female,A+,Migraine,2026-11-25,9876543235
+127,Sathish P,39,Male,O-,Diabetes,2026-11-26,9876543236
+128,Anu V,33,Female,B+,Fever,2026-11-27,9876543237
+129,Naveen M,41,Male,A-,Cold,2026-11-28,9876543238
+130,Pavithra S,25,Female,O+,Asthma,2026-11-29,9876543239
+131,Rahul T,47,Male,B+,Diabetes,2026-11-30,9876543240
+132,Sneha K,28,Female,AB+,Migraine,2026-12-01,9876543241
+133,Arvind R,50,Male,O+,Hypertension,2026-12-02,9876543242
+134,Mahalakshmi P,35,Female,A+,Fever,2026-12-03,9876543243
+135,Kishore N,43,Male,B-,Cold,2026-12-04,9876543244
+136,Nandhini S,29,Female,O+,Asthma,2026-12-05,9876543245
+137,Pranav K,54,Male,AB-,Diabetes,2026-12-06,9876543246
+138,Aarthi M,32,Female,A-,Hypertension,2026-12-07,9876543247
+139,Gokul V,38,Male,O+,Fever,2026-12-08,9876543248
+140,Janani R,27,Female,B+,Migraine,2026-12-09,9876543249
+141,Dinesh P,46,Male,A+,Cold,2026-12-10,9876543250
+142,Rithika S,31,Female,O-,Asthma,2026-12-11,9876543251
+143,Bharath K,40,Male,B+,Diabetes,2026-12-12,9876543252
+144,Harini V,23,Female,A+,Fever,2026-12-13,9876543253
+145,Yadhav R,37,Male,AB+,Hypertension,2026-12-14,9876543254
+146,Sahana M,30,Female,O+,Migraine,2026-12-15,9876543255
+147,Surya T,49,Male,B-,Diabetes,2026-12-16,9876543256
+148,Megha R,34,Female,A+,Cold,2026-12-17,9876543257
+149,Kamal P,45,Male,O+,Asthma,2026-12-18,9876543258
+150,Trisha K,26,Female,AB+,Fever,2026-12-19,9876543259
